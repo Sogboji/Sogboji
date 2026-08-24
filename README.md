@@ -304,7 +304,7 @@ I'm interested in connecting with professionals working in:
 
 **Cloud Security • Cybersecurity • AI Security • AI Red Teaming • DevSecOps • Security Engineering**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shad-o/)
 
 ---
 
