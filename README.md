@@ -184,7 +184,7 @@ Exploring:
 
 ## ✈️ CAE
 
-### Cloud Security Analyst
+### Information Security Analyst (Cloud)
 
 **2020 – 2022**
 
