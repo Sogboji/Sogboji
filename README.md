@@ -188,7 +188,7 @@ Exploring:
 
 **2020 – 2022**
 
-* Monitored AWS and GCP environments using **Chronicle, Splunk, Cloud Logging, and Cloud Audit Logs**, improving threat visibility by **30%**.
+* Monitored AWS and Azure environments using **Splunk, Cloud Logging, and Cloud Audit Logs**, improving threat visibility by **30%**.
 * Performed vulnerability assessments using **Rapid7 and AWS Inspector**, contributing to a **25% reduction in critical vulnerabilities**.
 * Investigated cloud security alerts and incidents, reducing response time by **20%**.
 * Supported Security Command Center investigations and remediation of cloud security risks.
